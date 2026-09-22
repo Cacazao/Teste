@@ -11,15 +11,18 @@ the [Publora API](https://publora.com) for the media-required publish flow.
 
 ## When to use this bundle
 
-- **Writing a caption** (hook in the first 125 chars, body, CTA) -> use `ig-caption-writer`
-- **Planning a carousel** slide by slide (hook slide to payoff slide) -> use `ig-carousel-planner`
-- **Reverse-engineering the hook** from a viral Reel or carousel -> use `ig-hook-extractor`
-- **Sizing hashtags** (the 3-5 niche/mid/broad reality, not 30) -> use `ig-hashtag-strategist`
-- **Removing AI tells from a caption, or auditing it before posting** -> use `ig-humanizer` (rewrite plus `--mode audit`, which folds in the post-audit sub-tool)
-- **Planning a week** of Reels, carousels, and stories -> use `ig-content-planner`
-- **Adapting cross-platform content** (a LinkedIn post, blog, YouTube script, or X thread) into a native Instagram carousel or caption -> use `ig-repurposer`
-- **Auditing and rewriting the profile** (photo, NAME field, bio, link, highlights, first-9 grid, pinned posts) -> use `ig-profile-optimizer`
-- **Reading your niche and profile stats from real data** (scan a hashtag for what is working, pull follower/post stats for you or a competitor) -> use `ig-audience-insights`
+Each row below is a playbook: read its file before acting on that kind of
+request (paths are relative to this SKILL.md).
+
+- **Writing a caption** (hook in the first 125 chars, body, CTA) -> read `skills/ig-caption-writer/ig-caption-writer.md`
+- **Planning a carousel** slide by slide (hook slide to payoff slide) -> read `skills/ig-carousel-planner/ig-carousel-planner.md`
+- **Reverse-engineering the hook** from a viral Reel or carousel -> read `skills/ig-hook-extractor/ig-hook-extractor.md`
+- **Sizing hashtags** (the 3-5 niche/mid/broad reality, not 30) -> read `skills/ig-hashtag-strategist/ig-hashtag-strategist.md`
+- **Removing AI tells from a caption, or auditing it before posting** -> read `skills/ig-humanizer/ig-humanizer.md` (rewrite plus `--mode audit`, which folds in the post-audit sub-tool)
+- **Planning a week** of Reels, carousels, and stories -> read `skills/ig-content-planner/ig-content-planner.md`
+- **Adapting cross-platform content** (a LinkedIn post, blog, YouTube script, or X thread) into a native Instagram carousel or caption -> read `skills/ig-repurposer/ig-repurposer.md`
+- **Auditing and rewriting the profile** (photo, NAME field, bio, link, highlights, first-9 grid, pinned posts) -> read `skills/ig-profile-optimizer/ig-profile-optimizer.md`
+- **Reading your niche and profile stats from real data** (scan a hashtag for what is working, pull follower/post stats for you or a competitor) -> read `skills/ig-audience-insights/ig-audience-insights.md`
 
 ## Core pattern
 

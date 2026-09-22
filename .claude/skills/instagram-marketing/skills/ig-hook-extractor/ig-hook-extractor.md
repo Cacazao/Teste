@@ -74,7 +74,7 @@ with full skeletons and goal tags.
 
 ## Files
 
-- `SKILL.md` - this file
+- `ig-hook-extractor.md` - this file
 - `references/classification-rules.md` - feature extraction + scoring heuristics
 - `references/examples.md` - worked teardowns (caption, carousel, Reel)
 

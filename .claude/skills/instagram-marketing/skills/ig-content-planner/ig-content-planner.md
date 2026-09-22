@@ -118,7 +118,7 @@ See `references/example-week.md` for a filled-in 7-day plan.
 
 ## Files
 
-- `SKILL.md` - this file
+- `ig-content-planner.md` - this file
 - `references/example-week.md` - worked 7-day plan
 - `references/pillars-framework.md` - the Instagram pillar discipline explained
 

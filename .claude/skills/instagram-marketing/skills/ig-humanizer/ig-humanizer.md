@@ -269,7 +269,7 @@ See `references/examples.md` for worked before/after rewrites.
 
 ## Files
 
-- `SKILL.md` - this file (rewrite scrubber + audit-mode entry)
+- `ig-humanizer.md` - this file (rewrite scrubber + audit-mode entry)
 - `references/scrub-rules.md` - V3 regex patterns by tier, density scoring, em dash cap, rhythm rules, forbidden insertions
 - `references/examples.md` - worked before/after rewrites for captions and slides
 - `references/audit-checklist.md` - the pre-publish checklist with thresholds
